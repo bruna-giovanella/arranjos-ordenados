@@ -1,6 +1,7 @@
 ﻿# arranjos-ordenados
 
 Título: 01 - Arranjos Ordenados
+
 Instruções: Implemente a estrutura de dados ArranjoOrdenado capaz de lidar com números inteiros de maneira crescente e decrescente. Adicione os testes unitários para garantir a corretude da estrutura.
 
 1. Realize o experimento científico sobre a operação inserção considerando a ordenação crescente e a ordenação decrescente. Segue a metodologia.
@@ -86,3 +87,4 @@ O código do experimento realizado.
 O uso de testes unitários (JUnit)
 A apresentação
 7. Na próxima aula, será sorteado 2-3 pessoas para apresentar os resultados obtidos.
+
